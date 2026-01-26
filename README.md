@@ -18,6 +18,7 @@ Software Engineer ⌨, High-Tier Nerd 🤓 and Professional Athlete 🏐
 <br><br>
 (I play table tennis 🏓, but I’m a Ma Long fan 🐐
 -----------------
+<br>
 I graduated from university with a degree in CompEng. I have my eyes set on fully reintegrating into the software development and engineering world, with full-stack projects that explore the depth and breadth of creating clean code and architecture.
 
 * 🌍  I'm based in Lebanon 🇱🇧 and St. Kitts & Nevis KN
