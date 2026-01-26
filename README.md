@@ -27,7 +27,8 @@ I graduated from university with a degree in CompEng. I have my eyes set on full
 * 🧠  I'm learning Flutter and NestJS 🗒
 * 🤝  I'm open to collaborating on any projects! 💯
 <div>
-
+  
+```
 Pssst… a little more about me 🌍  
 
 When I’m not coding, I’m usually out exploring the world and chasing new experiences:
@@ -36,7 +37,7 @@ When I’m not coding, I’m usually out exploring the world and chasing new exp
 - Traveling and discovering new places ✈️  
 - Meeting new people and learning from different cultures 🤝  
 - Always curious, always exploring 🚀  
-
+```
 </div>
 
 
