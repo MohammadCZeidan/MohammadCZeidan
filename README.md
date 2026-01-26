@@ -49,19 +49,7 @@ When I’m not coding, I’m usually out exploring the world and chasing new exp
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadczeidan&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadczeidan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadczeidan" alt="mohammadczeidan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/engmohammadz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engmohammadz" height="30" width="40" /></a>
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammadczeidan&show_icons=true&locale=en&layout=compact" alt="mohammadczeidan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadczeidan&show_icons=true&locale=en" alt="mohammadczeidan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadczeidan&" alt="mohammadczeidan" /></p>
+
