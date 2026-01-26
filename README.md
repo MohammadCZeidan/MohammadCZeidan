@@ -55,3 +55,10 @@ When I’m not coding, I’m usually out exploring the world and chasing new exp
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadczeidan&show_icons=true&locale=en" alt="mohammadczeidan" /></p>
 
 
+<h1 align="center">
+Thank You For Reading! 😎
+</h1>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjY5dnAyY3U5Z2d5YWJlNW53amRrcDAyeDM0dmtvdWticGw5MjdsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lD76yTC5zxZPG/giphy.gif" />
+</p>
