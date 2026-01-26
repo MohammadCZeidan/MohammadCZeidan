@@ -1,4 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mohammad C Zeidan</h1>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmc5M24xMHR0ZDZtZTJzNTl2aTJ0a2NheGUxYTRuemRkNWZsczVzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cahYS1KqbikaXDdin2/giphy.gif" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
+</p>
+
+<h1 align="center">
+  My name is Mohammad C Zeidan
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=F73636&center=true&vCenter=true&width=435&lines=Do+not+pray+for+easy+lives;Pray+to+be+stronger+men;Keep+moving+forward" />
+</p>  
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVmeTgzY3g4YzNoYmFqMng2bHd1cGRsOHl1Yzl0aDJtNGNjOHR4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LppVqsEvNABI74TTu3/giphy.gif" />
+</p> 
 <h3 align="center">A passionate Full stack developer from Lebanon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadczeidan&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadczeidan" /> </p>
