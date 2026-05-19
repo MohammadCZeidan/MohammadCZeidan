@@ -1,21 +1,144 @@
-<p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmc5M24xMHR0ZDZtZTJzNTl2aTJ0a2NheGUxYTRuemRkNWZsczVzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cahYS1KqbikaXDdin2/giphy.gif" /> </p> <p align="center"> <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" /> </p> <h1 align="center"> My name is Mohammad C Zeidan </h1> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=F73636&center=true&vCenter=true&width=435&lines=Do+not+pray+for+easy+lives;Pray+to+be+stronger+men;Keep+moving+forward" /> </p> <p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDVmeTgzY3g4YzNoYmFqMng2bHd1cGRsOHl1Yzl0aDJtNGNjOHR4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LppVqsEvNABI74TTu3/giphy.gif" /> </p>
+<div align="center">
 
-Software Engineer ⌨, High-Tier Nerd 🤓 and Professional Athlete 🏐
-(I play table tennis 🏓, but I’m a Ma Long fan)
+```
+███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗
+████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝
+ ███████╗███████╗██╗██████╗  █████╗ ███╗   ██╗
+ ╚══███╔╝██╔════╝██║██╔══██╗██╔══██╗████╗  ██║
+   ███╔╝ █████╗  ██║██║  ██║███████║██╔██╗ ██║
+  ███╔╝  ██╔══╝  ██║██║  ██║██╔══██║██║╚██╗██║
+ ███████╗███████╗██║██████╔╝██║  ██║██║ ╚████║
+ ╚══════╝╚══════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
 
-I graduated from university with a degree in CompEng. I have my eyes set on fully reintegrating into the software development and engineering world, with full-stack projects that explore the depth and breadth of creating clean code and architecture.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=3500&pause=800&color=F63939&center=true&vCenter=true&width=600&lines=Software+Engineer+%E2%8C%A8%EF%B8%8F+%7C+CompEng+Grad;Full-Stack+Developer+%7C+Clean+Architecture+Enjoyer;Professional+Table+Tennis+Player+%F0%9F%8F%93;Ma+Long+Fan+%7C+Always+Moving+Forward;Open+to+Collaborate+on+Anything+%F0%9F%92%AF)](https://git.io/typing-svg)
 
-🌍 I'm based in Lebanon 🇱🇧 and St. Kitts & Nevis KN
-✉️ You can contact me at Mohammadczaidan@gmail.com
-🧠 I'm learning Flutter and NestJS 🗒
-🤝 I'm open to collaborating on any projects! 💯
-Pssst… a little more about me 🌍
+<br/>
 
-When I’m not coding, I’m usually out exploring the world and chasing new experiences:
+![Profile Views](https://komarev.com/ghpvc/?username=mohammadczeidan&color=F63939&style=flat-square&label=PROFILE+VIEWS)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/mohammadczeidan?color=F63939&style=flat-square&logo=github&label=FOLLOWERS)
 
-Writing code and building cool things 💻
-Traveling and discovering new places ✈️
-Meeting new people and learning from different cultures 🤝
-Always curious, always exploring 🚀
-Skills - The Things I'm Pretty Good At! 🫡
-<p align="left"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJuNTdoanF6ZGZkazdxam9wMzhtNWd6dTlnaXp5NDN5cDg3Zm8yciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" /> </p> <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a> <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadczeidan&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadczeidan" /> </p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammadczeidan&show_icons=true&locale=en" alt="mohammadczeidan" /> </p> <h1 align="center"> Thank You For Reading! 😎 </h1> <p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjY5dnAyY3U5Z2d5YWJlNW53amRrcDAyeDM0dmtvdWticGw5MjdsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lD76yTC5zxZPG/giphy.gif" /> </p>
+</div>
+
+---
+
+```bash
+$ whoami
+> Mohammad C. Zeidan — Software Engineer, Nerd, Athlete.
+
+$ cat about.txt
+> 🌍 Based in Lebanon 🇱🇧 & St. Kitts and Nevis 🇰🇳
+> 🎓 Computer Engineering graduate
+> ⌨️  Full-stack dev obsessed with clean code & solid architecture
+> 🏓 Professional-level table tennis player (Ma Long is the GOAT, don't argue)
+> 🤝 Open to collaborating on literally anything — hit me up
+> ✉️  Mohammadczaidan@gmail.com
+```
+
+---
+
+<div align="center">
+
+## `> ./skills --list-all`
+
+</div>
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white)
+
+**Backend & Infra**
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+
+**Tools & Other**
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
+
+**Currently Loading...**
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
+
+---
+
+<div align="center">
+
+## `> ./stats --verbose`
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=mohammadczeidan&show_icons=true&theme=transparent&hide_border=true&title_color=F63939&icon_color=F63939&text_color=c9d1d9&bg_color=0d0d0d&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadczeidan&layout=compact&theme=transparent&hide_border=true&title_color=F63939&text_color=c9d1d9&bg_color=0d0d0d&langs_count=8"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadczeidan&theme=transparent&hide_border=true&ring=F63939&fire=FF6B35&currStreakLabel=F63939&sideLabels=888888&dates=555555" />
+
+<br/>
+
+[![Mohammad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadczeidan&bg_color=0d0d0d&color=F63939&line=F63939&point=FF6B35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+```
+> process.env
+
+  LOCATION     = "Lebanon 🇱🇧 & St. Kitts and Nevis 🇰🇳"
+  SPORT        = "Table Tennis 🏓 — Professional level"
+  FAN_OF       = "Ma Long (best player alive, period)"
+  SIDE_QUESTS  = ["Traveling ✈️", "Meeting people 🤝", "Exploring cultures 🌍"]
+  COLLAB       = true
+  AVAILABLE    = true
+  CONTACT      = "Mohammadczaidan@gmail.com"
+```
+
+---
+
+<div align="center">
+
+*"Do not pray for easy lives. Pray to be stronger men."*
+
+**Keep moving forward. 🚀**
+
+<br/>
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=F63939&height=80&section=footer&reversal=false)
+
+</div>
