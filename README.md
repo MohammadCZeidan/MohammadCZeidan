@@ -14,18 +14,14 @@
 
 ---
 
-```bash
-$ whoami
-> Mohammad C. Zeidan — Software Engineer, Nerd, Athlete.
-
-$ cat about.txt
-> 🌍  Based in Lebanon 🇱🇧 & St. Kitts and Nevis 🇰🇳
-> 🎓  Computer Engineering graduate
-> ⌨️  Full-stack dev obsessed with clean code & solid architecture
-> 🏓  Professional-level table tennis player (Ma Long is the GOAT, don't argue)
-> 🤝  Open to collaborating on literally anything — hit me up
-> 📧  Mohammadczaidan@gmail.com
-```
+<table>
+<tr><td><b>🌍 Location</b></td><td>Lebanon 🇱🇧 &amp; St. Kitts and Nevis 🇰🇳</td></tr>
+<tr><td><b>🎓 Education</b></td><td>Computer Engineering graduate</td></tr>
+<tr><td><b>⌨️ Focus</b></td><td>Full-stack dev obsessed with clean code &amp; solid architecture</td></tr>
+<tr><td><b>🏓 Sport</b></td><td>Professional-level table tennis player (Ma Long is the GOAT, don't argue)</td></tr>
+<tr><td><b>🤝 Collab</b></td><td>Open to collaborating on literally anything — hit me up</td></tr>
+<tr><td><b>📧 Contact</b></td><td><a href="mailto:Mohammadczaidan@gmail.com">Mohammadczaidan@gmail.com</a></td></tr>
+</table>
 
 ---
 
@@ -104,17 +100,19 @@ $ cat about.txt
 
 ---
 
-```
-> process.env
+<div align="center">
 
-  LOCATION     = "Lebanon 🇱🇧 & St. Kitts and Nevis 🇰🇳"
-  SPORT        = "Table Tennis 🏓 — Professional level"
-  FAN_OF       = "Ma Long (best player alive, period)"
-  SIDE_QUESTS  = ["Traveling ✈️", "Meeting people 🤝", "Exploring cultures 🌍"]
-  COLLAB       = true
-  AVAILABLE    = true
-  CONTACT      = "Mohammadczaidan@gmail.com"
-```
+| Variable | Value |
+|:--|:--|
+| `LOCATION` | Lebanon 🇱🇧 &amp; St. Kitts and Nevis 🇰🇳 |
+| `SPORT` | Table Tennis 🏓 — Professional level |
+| `FAN_OF` | Ma Long (best player alive, period) |
+| `SIDE_QUESTS` | Traveling ✈️ &nbsp;·&nbsp; Meeting people 🤝 &nbsp;·&nbsp; Exploring cultures 🌍 |
+| `COLLAB` | `true` |
+| `AVAILABLE` | `true` |
+| `CONTACT` | [Mohammadczaidan@gmail.com](mailto:Mohammadczaidan@gmail.com) |
+
+</div>
 
 ---
 
