@@ -1,21 +1,8 @@
 <div align="center">
 
-```
-███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗
-████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗
-██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║
-██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║
-██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝
-╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝
- ███████╗███████╗██╗██████╗  █████╗ ███╗   ██╗
- ╚══███╔╝██╔════╝██║██╔══██╗██╔══██╗████╗  ██║
-   ███╔╝ █████╗  ██║██║  ██║███████║██╔██╗ ██║
-  ███╔╝  ██╔══╝  ██║██║  ██║██╔══██║██║╚██╗██║
- ███████╗███████╗██║██████╔╝██║  ██║██║ ╚████║
- ╚══════╝╚══════╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+![Header](https://capsule-render.vercel.app/api?type=waving&color=F63939&height=200&section=header&text=Mohammad%20Zeidan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Table%20Tennis%20Pro&descAlignY=60&descSize=16&descColor=ffaaaa)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=16&duration=3500&pause=800&color=F63939&center=true&vCenter=true&width=600&lines=Software+Engineer+%E2%8C%A8%EF%B8%8F+%7C+CompEng+Grad;Full-Stack+Developer+%7C+Clean+Architecture+Enjoyer;Professional+Table+Tennis+Player+%F0%9F%8F%93;Ma+Long+Fan+%7C+Always+Moving+Forward;Open+to+Collaborate+on+Anything+%F0%9F%92%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=15&duration=3500&pause=800&color=F63939&center=true&vCenter=true&width=600&lines=⌨️+Software+Engineer+%7C+CompEng+Grad;🔥+Full-Stack+Developer+%7C+Clean+Architecture;🏓+Professional+Table+Tennis+Player;🐉+Ma+Long+Fan+%7C+Always+Moving+Forward;💯+Open+to+Collaborate+on+Anything)](https://git.io/typing-svg)
 
 <br/>
 
@@ -32,12 +19,12 @@ $ whoami
 > Mohammad C. Zeidan — Software Engineer, Nerd, Athlete.
 
 $ cat about.txt
-> 🌍 Based in Lebanon 🇱🇧 & St. Kitts and Nevis 🇰🇳
-> 🎓 Computer Engineering graduate
+> 🌍  Based in Lebanon 🇱🇧 & St. Kitts and Nevis 🇰🇳
+> 🎓  Computer Engineering graduate
 > ⌨️  Full-stack dev obsessed with clean code & solid architecture
-> 🏓 Professional-level table tennis player (Ma Long is the GOAT, don't argue)
-> 🤝 Open to collaborating on literally anything — hit me up
-> ✉️  Mohammadczaidan@gmail.com
+> 🏓  Professional-level table tennis player (Ma Long is the GOAT, don't argue)
+> 🤝  Open to collaborating on literally anything — hit me up
+> 📧  Mohammadczaidan@gmail.com
 ```
 
 ---
@@ -107,7 +94,7 @@ $ cat about.txt
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadczeidan&theme=transparent&hide_border=true&ring=F63939&fire=FF6B35&currStreakLabel=F63939&sideLabels=888888&dates=555555" />
+<img src="https://streak-stats.demolab.com/?user=mohammadczeidan&theme=transparent&hide_border=true&ring=F63939&fire=FF6B35&currStreakLabel=F63939&sideLabels=888888&dates=555555&background=0d0d0d" />
 
 <br/>
 
@@ -137,8 +124,6 @@ $ cat about.txt
 
 **Keep moving forward. 🚀**
 
-<br/>
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=F63939&height=80&section=footer&reversal=false)
-
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=F63939&height=100&section=footer&reversal=false)
