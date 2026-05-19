@@ -1,8 +1,8 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=F63939&height=200&section=header&text=Mohammad%20Zeidan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Open%20to%20Work&descAlignY=60&descSize=16&descColor=ffaaaa)
+
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=F63939&height=200&section=header&text=Mohammad%20Zeidan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Table%20Tennis%20Pro&descAlignY=60&descSize=16&descColor=ffaaaa)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=15&duration=3500&pause=800&color=F63939&center=true&vCenter=true&width=600&lines=⌨️+Software+Engineer+%7C+CompEng+Grad;🔥+Full-Stack+Developer+%7C+Clean+Architecture;🏓+Professional+Table+Tennis+Player;🐉+Ma+Long+Fan+%7C+Always+Moving+Forward;💯+Open+to+Collaborate+on+Anything)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=15&duration=3500&pause=800&color=F63939&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+CompEng+Grad;Full-Stack+Developer+%7C+Clean+Architecture;React+%7C+Next.js+%7C+Node+%7C+Laravel+%7C+TypeScript;Open+to+Work+—+Let%27s+build+something+great)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,22 +14,48 @@
 
 ---
 
+## 👋 About Me
+
 <table>
 <tr><td><b>🌍 Location</b></td><td>Lebanon 🇱🇧 &amp; St. Kitts and Nevis 🇰🇳</td></tr>
 <tr><td><b>🎓 Education</b></td><td>Computer Engineering graduate</td></tr>
 <tr><td><b>⌨️ Focus</b></td><td>Full-stack dev obsessed with clean code &amp; solid architecture</td></tr>
-<tr><td><b>🏓 Sport</b></td><td>Professional-level table tennis player (Ma Long is the GOAT, don't argue)</td></tr>
-<tr><td><b>🤝 Collab</b></td><td>Open to collaborating on literally anything — hit me up</td></tr>
-<tr><td><b>📧 Contact</b></td><td><a href="mailto:Mohammadczaidan@gmail.com">Mohammadczaidan@gmail.com</a></td></tr>
+<tr><td><b>🏓 Sport</b></td><td>Professional-level table tennis player (Ma Long is the GOAT, don't @ me)</td></tr>
+<tr><td><b>🤝 Collab</b></td><td>Open to collaborating on anything — hit me up</td></tr>
+<tr><td><b>🧠 Learning</b></td><td>Flutter &amp; NestJS</td></tr>
 </table>
 
 ---
 
+## 🚀 Hire Me — Let's Build Something
+
+> **I'm actively looking for full-stack opportunities.** I bring clean code, strong architecture thinking, and the energy of someone who plays table tennis at a professional level — I don't lose easily.
+
 <div align="center">
 
-## `> ./skills --list-all`
+[![Email Me](https://img.shields.io/badge/📧%20Email%20Me-F63939?style=for-the-badge&logoColor=white)](mailto:Mohammadczaidan@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadczeidan)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadczeidan)
 
 </div>
+
+<div align="center">
+
+| 💼 What I bring | ✅ |
+|:--|:--:|
+| Full-stack development (React, Next.js, Node, Laravel) | ✅ |
+| Clean architecture & scalable systems | ✅ |
+| REST APIs, databases, cloud (AWS, Docker) | ✅ |
+| Mobile development (React Native, Flutter) | ✅ |
+| Fast learner, team player, ships things | ✅ |
+
+</div>
+
+---
+
+## 🛠️ Skills
 
 **Languages**
 
@@ -67,7 +93,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
-**Tools & Other**
+**Tools**
 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -81,9 +107,9 @@
 
 ---
 
-<div align="center">
+## 📊 Stats
 
-## `> ./stats --verbose`
+<div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mohammadczeidan&show_icons=true&theme=transparent&hide_border=true&title_color=F63939&icon_color=F63939&text_color=c9d1d9&bg_color=0d0d0d&include_all_commits=true&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadczeidan&layout=compact&theme=transparent&hide_border=true&title_color=F63939&text_color=c9d1d9&bg_color=0d0d0d&langs_count=8"/>
@@ -94,13 +120,13 @@
 
 <br/>
 
-[![Mohammad's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadczeidan&bg_color=0d0d0d&color=F63939&line=F63939&point=FF6B35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadczeidan&bg_color=0d0d0d&color=F63939&line=F63939&point=FF6B35&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<div align="center">
+## 🌍 A Bit More
 
 | Variable | Value |
 |:--|:--|
@@ -112,8 +138,6 @@
 | `AVAILABLE` | `true` |
 | `CONTACT` | [Mohammadczaidan@gmail.com](mailto:Mohammadczaidan@gmail.com) |
 
-</div>
-
 ---
 
 <div align="center">
@@ -121,6 +145,12 @@
 *"Do not pray for easy lives. Pray to be stronger men."*
 
 **Keep moving forward. 🚀**
+
+<br/>
+
+[![Email Me](https://img.shields.io/badge/📧%20Email%20Me-F63939?style=for-the-badge&logoColor=white)](mailto:Mohammadczaidan@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadczeidan)
 
 </div>
 
